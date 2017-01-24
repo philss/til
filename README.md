@@ -6,6 +6,6 @@ This project was inspired by [@rafaelrinaldi](https://github.com/rafaelrinaldi)'
 
 ## License
 
-[![BY](https://i.creativecommons.org/l/by/4.0/88x31.png)][BY]
+![BY](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
 This project is under [Creative Commons Attribution 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/) license.
